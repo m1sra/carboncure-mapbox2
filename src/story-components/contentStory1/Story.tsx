@@ -13,7 +13,7 @@ const Story = () =>{
           This process increases the strength of the concrete, which allows concrete producers to reduce the amount of carbon-intensive cement used in concrete, thereby reducing its emissions.
         </li>
         <li>
-        CarbonCure’s technologies are used in over 500 concrete in over 30 countries, turning concrete into a climate solution and accelerating the market for durable CO2 storage by embedding CO2 in thousands of construction projects around the world
+        CarbonCure’s technologies are used in over 700 concrete plants in over 30 countries, turning concrete into a climate solution and accelerating the market for durable CO2 storage by embedding CO2 in thousands of construction projects around the world.
         </li>
       </ul>
     </div>
