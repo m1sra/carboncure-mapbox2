@@ -4,9 +4,6 @@ const Story = () =>{
       <h2>
       Our Process
       </h2>
-      <p>
-      At the moment, the majority of this CO2 coming from ethanol production, enabling CarbonCure to secure a biogenic CO2 source for its producers
-      </p>
       <img src="icons/img-8,0.png" alt="img-story-8"/>
       <ul>
         <li>
