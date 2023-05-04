@@ -3,7 +3,7 @@ const Story = () =>{
     <div className="story-2">
       <h2>CarbonCure sources CO2 from the industrial market, with partner plants located across the US</h2>
       <p>
-      At the moment, the majority of this CO2 coming from ethanol production, enabling CarbonCure to secure a biogenic CO2 source for its producers
+      At the moment, the majority of this CO2 comes from ethanol production, enabling CarbonCure to secure a biogenic CO2 source for its producers
       </p>
       <img src="icons/img-2,0.png" alt="img-story-2"/>
       <p>
