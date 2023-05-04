@@ -2,14 +2,14 @@ const Story = () =>{
   return (
     <div className="story-6">
       <h2>
-      Making DAC to concrete a reality alongside Central Concrete in San Jose
+      Storing CO2 Permanently with Central Concrete
       </h2>
       <p>
-      During this project, Heirloom captured CO2 in [XXX], liquefied it, and transported it to Central Concrete in San Jose where multiple CarbonCure technologies are currently deployed and mineralizing carbon into concrete.
+      During this project, Heirloom captured CO2 in Brisbane, CA liquefied it, and transported it to Central Concrete in San Jose where multiple CarbonCure technologies are currently deployed and mineralizing carbon into concrete.
       </p>
       <ul>
         <li>
-        <span className="sub-title">Central Concrete</span> is a prominent concrete producer in California, having served the Bay Area for over 70 years and contributed to key aspects of infrastructure and growth of the region
+        <span className="sub-title">Central Concrete</span> is a prominent concrete producer in California, having served the Bay Area for over 70 years and contributed to key aspects of infrastructure and growth in the region
         </li>
       </ul>
       <p>
@@ -30,10 +30,10 @@ const Story = () =>{
         </p>
       </div>
       <p>
-      Central is a pioneer when it comes to sustainable solutions and operations in the concrete industry and has been a long-time partner as CarbonCure has scaled its technologies.
+      Central is a pioneer when it comes to sustainable solutions and operations in the concrete industry, and has been a key partner of CarbonCure's for years.
       </p>
       <p>
-      In addition to leveraging CarbonCure’s Ready Mix technology in many of their plants, Central Concrete is also one of the first concrete producers in the world to commercialize CarbonCure’s Reclaimed Water
+      In addition to leveraging CarbonCure’s Ready Mix technology in many of their plants, Central Concrete is also one of the first concrete producers in the world to commercialize CarbonCure’s Reclaimed Water Technology.
       </p>
     </div>
   )
