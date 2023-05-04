@@ -5,13 +5,13 @@ const Story = () =>{
       <img src="icons/img-3,0.png" alt="img-story-3"/>
       <ul>
         <li>
-          Heirloom is a carbon removal technology company that is building the world’s most cost-effective direct air capture solution.
+          Heirloom builds low-cost Direct Air Capture technology that permanently removes CO2 from the atmosphere.
         </li>
         <li>
-        Direct Air Capture refers to a suite of technologies that remove CO2 directly from the atmosphere
+        Heirloom uses limestone, one of the world's most abundant and inexpensive materials to capture CO2.
         </li>
         <li>
-        Heirloom has developed a technology that uses calcium carbonate to capture CO2 from the atmosphere.
+        Heirloom's technology rapidly accelerates the natural ability of minerals to absorb CO2 from the air from a timespan of years to 3 days.
         </li>
       </ul>
     </div>
